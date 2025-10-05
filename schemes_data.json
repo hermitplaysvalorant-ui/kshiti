@@ -1,0 +1,37 @@
+{
+  "National Food Security Mission": {
+    "description_en": "The National Food Security Mission (NFSM) aims to increase the production of rice, wheat, pulses, and cereals through area expansion and productivity enhancement in a sustainable manner.",
+    "description_kn": "ರಾಷ್ಟ್ರೀಯ ಆಹಾರ ಭದ್ರತಾ ಮಿಷನ್ (NFSM) ಅಕ್ಕಿ, ಗೋಧಿ, ಬೇಳೆಕಾಳುಗಳು ಮತ್ತು ಧಾನ್ಯಗಳ ಉತ್ಪಾದನೆಯನ್ನು ಸಮರ್ಥನೀಯ ರೀತಿಯಲ್ಲಿ ಹೆಚ್ಚಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ.",
+    "benefits_en": ["Provides financial assistance for seeds, farming equipment, and bio-fertilizers.", "Promotes improved farming techniques like the System of Rice Intensification (SRI).", "Focuses on restoring soil fertility and productivity."],
+    "benefits_kn": ["ಬೀಜಗಳು, ಕೃಷಿ ಉಪಕರಣಗಳು ಮತ್ತು ಜೈವಿಕ ಗೊಬ್ಬರಗಳಿಗೆ ಆರ್ಥಿಕ ನೆರವು ನೀಡುತ್ತದೆ.", "ಅಕ್ಕಿ ತೀವ್ರಗೊಳಿಸುವ ವ್ಯವಸ್ಥೆ (SRI) ಯಂತಹ ಸುಧಾರಿತ ಕೃಷಿ ತಂತ್ರಗಳನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ.", "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಮತ್ತು ಉತ್ಪಾದಕತೆಯನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಗಮನಹರಿಸುತ್ತದೆ."],
+    "crops_covered": ["Rice", "Wheat", "Pulses", "Coarse Cereals", "Nutri Cereals"]
+  },
+  "National Mission for Edible Oils": {
+    "description_en": "This mission focuses on increasing the production of edible oils, especially from oil palms, to reduce India's dependency on imports.",
+    "description_kn": "ಈ ಮಿಷನ್ ಆಮದುಗಳ ಮೇಲೆ ಭಾರತದ ಅವಲಂಬನೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಖಾದ್ಯ ತೈಲಗಳ, ವಿಶೇಷವಾಗಿ ಎಣ್ಣೆ ತಾಳೆಗಳ ಉತ್ಪಾದನೆಯನ್ನು ಹೆಚ್ಚಿಸುವತ್ತ ಗಮನಹರಿಸುತ್ತದೆ.",
+    "benefits_en": ["Provides subsidies on planting materials.", "Guarantees a price for fresh fruit bunches from oil palms.", "Promotes intercropping with other crops."],
+    "benefits_kn": ["ಸಸಿಗಳಿಗೆ ಸಬ್ಸಿಡಿ ನೀಡುತ್ತದೆ.", "ಎಣ್ಣೆ ತಾಳೆಗಳಿಂದ ತಾಜಾ ಹಣ್ಣಿನ ಗೊಂಚಲುಗಳಿಗೆ ಬೆಲೆಯನ್ನು ಖಾತರಿಪಡಿಸುತ್ತದೆ.", "ಇತರ ಬೆಳೆಗಳೊಂದಿಗೆ ಅಂತರ-ಬೆಳೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ."],
+    "crops_covered": ["Oil Palms"]
+  },
+  "Price Support Scheme": {
+    "description_en": "The Price Support Scheme (PSS) is implemented to protect farmers from making distress sales of their produce. The government procures these crops at the Minimum Support Price (MSP) when market prices fall below it.",
+    "description_kn": "ಬೆಲೆ ಬೆಂಬಲ ಯೋಜನೆ (PSS) ರೈತರ ಉತ್ಪನ್ನಗಳನ್ನು ಸಂಕಷ್ಟದ ಮಾರಾಟದಿಂದ ರಕ್ಷಿಸಲು ಜಾರಿಗೆ ತರಲಾಗಿದೆ. ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆಗಿಂತ (MSP) ಕಡಿಮೆಯಾದಾಗ ಸರ್ಕಾರವು ಈ ಬೆಳೆಗಳನ್ನು ಖರೀದಿಸುತ್ತದೆ.",
+    "benefits_en": ["Guarantees a minimum price for crops, ensuring a safety net for farmers.", "Prevents losses due to market price fluctuations."],
+    "benefits_kn": ["ಬೆಳೆಗಳಿಗೆ ಕನಿಷ್ಠ ಬೆಲೆಯನ್ನು ಖಾತರಿಪಡಿಸುತ್ತದೆ, ರೈತರಿಗೆ ಸುರಕ್ಷತಾ ಜಾಲವನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.", "ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಏರಿಳಿತದಿಂದಾಗುವ ನಷ್ಟವನ್ನು ತಡೆಯುತ್ತದೆ."],
+    "crops_covered": ["Pulses", "Oilseeds", "Copra"]
+  },
+  "Mission for Integrated Development of Horticulture": {
+    "description_en": "MIDH is a scheme for the holistic growth of the horticulture sector, covering fruits, vegetables, spices, flowers, and plantation crops like coconut and bamboo.",
+    "description_kn": "MIDH ತೋಟಗಾರಿಕಾ ವಲಯದ ಸಮಗ್ರ ಬೆಳವಣಿಗೆಗಾಗಿ ಒಂದು ಯೋಜನೆಯಾಗಿದ್ದು, ಹಣ್ಣುಗಳು, ತರಕಾರಿಗಳು, ಮಸಾಲೆಗಳು, ಹೂವುಗಳು ಮತ್ತು ತೆಂಗು ಹಾಗೂ ಬಿದಿರಿನಂತಹ ತೋಟದ ಬೆಳೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+    "benefits_en": ["Promotes the adoption of high-quality seeds and planting material.", "Assists in creating post-harvest infrastructure like cold storage.", "Encourages cluster-based farming for better outcomes."],
+    "benefits_kn": ["ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜಗಳು ಮತ್ತು ಸಸಿಗಳ ಅಳವಡಿಕೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ.", "ಶೀತಲ ಸಂಗ್ರಹಣೆಯಂತಹ ಕೊಯ್ಲಿನ ನಂತರದ ಮೂಲಸೌಕರ್ಯವನ್ನು ರಚಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.", "ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ ಕ್ಲಸ್ಟರ್ ಆಧಾರಿತ ಕೃಷಿಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ."],
+    "crops_covered": ["Fruits", "Vegetables", "Coconut", "Bamboo", "Spices", "Flowers"]
+  },
+  "Clean Plant Programme": {
+    "description_en": "The Clean Plant Programme aims to boost domestic production of high-quality, disease-free planting material for high-value fruit crops.",
+    "description_kn": "ಸ್ವಚ್ಛ ಸಸ್ಯ ಕಾರ್ಯಕ್ರಮವು ಹೆಚ್ಚಿನ ಮೌಲ್ಯದ ಹಣ್ಣಿನ ಬೆಳೆಗಳಿಗೆ ಉತ್ತಮ ಗುಣಮಟ್ಟದ, ರೋಗಮುಕ್ತ ಸಸಿಗಳ ದೇಶೀಯ ಉತ್ಪಾದನೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ.",
+    "benefits_en": ["Ensures availability of disease-free planting material.", "Establishes clean plant centers for testing and propagation.", "Aims to improve fruit quality and export potential."],
+    "benefits_kn": ["ರೋಗಮುಕ್ತ ಸಸಿಗಳ ಲಭ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.", "ಪರೀಕ್ಷೆ ಮತ್ತು ಪ್ರಸರಣಕ್ಕಾಗಿ ಸ್ವಚ್ಛ ಸಸ್ಯ ಕೇಂದ್ರಗಳನ್ನು ಸ್ಥಾಪಿಸುತ್ತದೆ.", "ಹಣ್ಣಿನ ಗುಣಮಟ್ಟ ಮತ್ತು ರಫ್ತು ಸಾಮರ್ಥ್ಯವನ್ನು ಸುಧಾರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."],
+    "crops_covered": ["Fruits"]
+  }
+}

@@ -1,0 +1,277 @@
+rtc_number,Name,soil_type,pH,EC (dS/m),OC (%),Nitrogen (kg/ha),Phosphorus (kg/ha),Potassium (kg/ha),Sulphur (ppm),Zinc (ppm),Iron (ppm),Copper (ppm),Manganese (ppm),Boron (ppm),current_crop,recommended_schemes
+RTC-221524,Rajeshgowda DP,Red Soil,5.63,0.36,0.58,210,15,116,7,0.69,3.07,0.18,4.25,0.26,Pulses,Price Support Scheme
+RTC-372268,nanjegowda,Black Soil,7.5,0.89,0.58,320,15,302,11,0.51,6.06,0.24,6.03,0.51,Jowar (Sorghum),National Food Security Mission
+RTC-110454,byrappa,Sandy Loam Soil,6.42,0.43,0.65,383,21,209,17,0.71,6.37,0.52,6.45,0.58,Maize,Price Support Scheme
+RTC-211592,chandan gowda,Alluvial Soil,7.48,0.76,1,446,17,310,12,0.85,5.88,0.4,6.84,0.93,Vegetables,No specific schemes found
+RTC-137295,satish dn,Laterite Soil,4.6,0.22,0.7,146,9,123,5,0.36,8.78,0.35,7.22,0.14,Tea,Mission for Integrated Development of Horticulture
+RTC-381601,indramma,Laterite Soil,5.3,0.14,0.64,121,7,147,8,0.59,16.13,0.5,7.2,0.11,Rubber,No specific schemes found
+RTC-211376,chethan gowda,Laterite Soil,4.5,0.18,0.45,159,12,142,4,0.38,17.85,0.36,4.53,0.37,Coffee,No specific schemes found
+RTC-894023,boregowda,Laterite Soil,5.16,0.26,0.79,178,11,87,5,0.34,12.59,0.29,5.63,0.2,Coconut,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-105016,bhadregowda,Laterite Soil,5.21,0.17,0.58,104,11,86,6,0.47,14.19,0.23,6.87,0.3,Rubber,Mission for Integrated Development of Horticulture
+RTC-369299,bhadregowda,Silt Loam Soil,7.27,0.53,1.22,556,21,239,15,1.63,8.88,0.94,13.75,1.34,Wheat,No specific schemes found
+RTC-911802,raajanna,Alluvial Soil,7.08,0.73,0.75,316,18,317,19,1.1,5.17,0.38,3.44,0.67,Rice,National Food Security Mission
+RTC-108433,raajanna,Silt Loam Soil,6.6,0.42,0.86,387,21,279,27,1.2,6.59,0.48,6.44,1.26,Rice,No specific schemes found
+RTC-816747,raajanna,Red Soil,6.3,0.11,0.47,240,9,121,10,0.63,5.25,0.13,4.07,0.34,Tobacco,"National Food Security Mission, Price Support Scheme"
+RTC-720195,chandramma,Red Soil,5.56,0.12,0.36,152,12,106,8,0.63,4.8,0.16,3.62,0.35,Potato,Price Support Scheme
+RTC-354912,kruthika,Laterite Soil,5.14,0.16,0.44,128,7,86,7,0.31,10.65,0.46,8,0.16,Cashew,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-484946,borappa,Red Soil,5.64,0.19,0.43,219,13,140,8,0.45,3.71,0.15,2.76,0.33,Ragi (Finger Millet),"National Food Security Mission, Price Support Scheme"
+RTC-736941,raajegowda Eeranna,Red Soil,6.36,0.39,0.31,157,13,156,6,0.65,3.02,0.17,2.86,0.28,Groundnut,Price Support Scheme
+RTC-643496,raajegowda Eeranna,Sandy Loam Soil,6.21,0.29,0.57,384,14,164,14,0.72,6.44,0.32,8.99,0.61,Pulses,Price Support Scheme
+RTC-699815,shambulinge gowda,Red Soil,5.86,0.13,0.57,230,15,158,7,0.47,3.12,0.21,2.33,0.28,Potato,Mission for Integrated Development of Horticulture
+RTC-203531,rajappa,Red Soil,5.58,0.14,0.3,192,11,178,8,0.75,5.87,0.24,4.6,0.41,Groundnut,No specific schemes found
+RTC-552334,jayanna,Laterite Soil,4.93,0.1,0.65,141,5,115,4,0.38,12.48,0.26,4.68,0.32,Cashew,No specific schemes found
+RTC-437390,vishwanatha,Red Soil,5.52,0.16,0.36,218,9,159,7,0.4,3.65,0.27,4.89,0.49,Pulses,Price Support Scheme
+RTC-953618,shivanna,Laterite Soil,4.59,0.16,0.46,154,5,93,6,0.47,18.24,0.29,6.3,0.25,Coconut,Mission for Integrated Development of Horticulture
+RTC-121205,dileep gowda,Black Soil,7.37,0.93,0.53,220,19,377,11,0.53,5.76,0.24,8.34,0.47,Sugarcane,National Food Security Mission
+RTC-480467,karigowda,Loamy Soil,6.66,0.29,1.2,484,23,188,18,1.18,9.63,0.64,5.04,0.92,Sugarcane,No specific schemes found
+RTC-406331,putanna,Laterite Soil,4.55,0.12,0.8,149,10,130,4,0.42,9.13,0.37,4.18,0.3,Coconut,No specific schemes found
+RTC-392236,hiranayya,Laterite Soil,4.96,0.22,0.42,145,7,104,4,0.39,11.01,0.49,4.13,0.3,Cashew,No specific schemes found
+RTC-835607,bacchegowda,Red Soil,5.66,0.35,0.41,203,8,165,8,0.77,3.51,0.13,3.16,0.3,Ragi (Finger Millet),Mission for Integrated Development of Horticulture
+RTC-642139,doddalinghegowda,Laterite Soil,5.09,0.22,0.58,135,10,138,4,0.6,18.72,0.48,3.89,0.15,Tea,No specific schemes found
+RTC-202679,bheemappa,Red Soil,5.74,0.13,0.5,161,15,162,8,0.72,3.62,0.19,2.41,0.23,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-123161,dinesha,Silt Loam Soil,7.72,0.45,0.76,407,25,243,15,0.96,5.83,0.52,10.92,1.49,Rice,No specific schemes found
+RTC-389860,chandranna,Silt Loam Soil,7.21,0.54,0.84,493,26,274,21,1.77,10.64,0.75,14.32,0.71,Wheat,National Food Security Mission
+RTC-763937,soori,Alluvial Soil,7.7,0.61,0.81,368,18,320,18,0.87,4.49,0.23,3.2,0.58,Jute,National Food Security Mission
+RTC-177473,eeregowda,Laterite Soil,4.68,0.14,0.54,172,5,93,8,0.48,13.86,0.49,4.9,0.37,Cashew,No specific schemes found
+RTC-629169,faathima,Red Soil,5.56,0.34,0.58,201,15,148,9,0.77,5.19,0.19,3.3,0.28,Potato,No specific schemes found
+RTC-577771,kumara,Red Soil,5.67,0.18,0.43,225,8,161,7,0.54,4.37,0.16,4.44,0.25,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-298996,sukumar,Red Soil,6.11,0.36,0.47,241,13,126,9,0.8,3.33,0.16,4.71,0.42,Ragi (Finger Millet),National Food Security Mission
+RTC-380397,badrinath,Red Soil,5.92,0.3,0.54,189,14,106,7,0.51,3.2,0.28,2.57,0.34,Groundnut,Price Support Scheme
+RTC-100629,ganganna,Laterite Soil,4.79,0.17,0.69,177,7,93,7,0.57,19.59,0.41,6.57,0.12,Coffee,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-733472,bhyregowda,Red Soil,6.36,0.25,0.52,157,8,116,9,0.49,5.24,0.24,3.71,0.45,Groundnut,Price Support Scheme
+RTC-779126,fardeen khan,Red Soil,5.96,0.1,0.32,202,14,148,9,0.71,3.39,0.24,4.13,0.33,Tobacco,No specific schemes found
+RTC-840049,harish kumar,Laterite Soil,4.86,0.11,0.45,139,9,104,7,0.34,14.8,0.37,7.02,0.24,Coffee,No specific schemes found
+RTC-647956,girija iyer,Red Soil,5.62,0.19,0.58,165,8,155,7,0.46,3.16,0.29,4.38,0.36,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-223205,janakamma,Laterite Soil,5.41,0.19,0.42,194,9,141,7,0.35,16.17,0.43,3.54,0.26,Tea,No specific schemes found
+RTC-577671,kempegowda,Red Soil,6.44,0.14,0.46,223,11,167,5,0.69,5.41,0.23,4.55,0.37,Potato,Price Support Scheme
+RTC-315565,beerappa gowda,Red Soil,5.6,0.38,0.5,154,12,106,10,0.53,4.7,0.14,3.76,0.23,Ragi (Finger Millet),Mission for Integrated Development of Horticulture
+RTC-615410,hanumanthappa,Black Soil,8.46,0.99,0.51,233,16,404,14,0.71,4.01,0.24,7.21,0.48,Wheat,National Food Security Mission
+RTC-269098,devendra,Red Soil,5.79,0.22,0.54,234,13,160,9,0.56,3.22,0.21,2.28,0.33,Ragi (Finger Millet),National Food Security Mission
+RTC-469360,devegowda,Red Soil,6.28,0.39,0.54,173,13,129,7,0.51,3.42,0.18,3.39,0.43,Groundnut,National Food Security Mission
+RTC-868124,chandreshekar,Loamy Soil,6.88,0.58,1.15,386,18,188,21,1.43,9.82,0.53,7.94,0.93,Oilseeds,Price Support Scheme
+RTC-965643,jayraama,Laterite Soil,4.82,0.12,0.75,168,10,149,8,0.36,16.9,0.26,7.44,0.21,Coconut,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-648828,lokesh gowda,Sandy Loam Soil,6.53,0.31,0.4,328,19,226,17,0.95,5.44,0.21,5.88,0.79,Maize,Price Support Scheme
+RTC-627735,lalithamma,Red Soil,5.73,0.24,0.59,220,13,140,5,0.8,4.58,0.26,4.82,0.3,Ragi (Finger Millet),Mission for Integrated Development of Horticulture
+RTC-219108,gangadhar,Laterite Soil,4.96,0.28,0.74,197,10,100,5,0.57,14.88,0.24,4.35,0.24,Coconut,No specific schemes found
+RTC-309984,krishnegowda,Red Soil,5.96,0.12,0.57,207,13,120,7,0.65,3.52,0.28,4.21,0.4,Groundnut,No specific schemes found
+RTC-985881,kalavathi,Laterite Soil,5.02,0.24,0.54,117,9,114,6,0.52,9.7,0.41,3.33,0.23,Rubber,Mission for Integrated Development of Horticulture
+RTC-360799,kailash,Laterite Soil,5.39,0.24,0.78,132,7,96,6,0.54,14.17,0.35,6.93,0.19,Coffee,No specific schemes found
+RTC-603032,kavitha,Laterite Soil,5.22,0.19,0.66,127,8,82,4,0.43,8.06,0.27,3.31,0.1,Coffee,No specific schemes found
+RTC-929440,kanakamurthi,Loamy Soil,6.99,0.21,0.78,471,18,202,22,1.06,8.7,0.71,8.92,0.63,Pulses,No specific schemes found
+RTC-349972,krishnappa ,Laterite Soil,4.51,0.2,0.61,160,7,138,8,0.35,10.05,0.47,5.6,0.21,Tea,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-292695,karibasappa,Red Soil,5.78,0.24,0.32,247,12,106,10,0.8,4.74,0.18,4.15,0.49,Tobacco,Mission for Integrated Development of Horticulture
+RTC-489777,gangavathi,Red Soil,5.96,0.1,0.45,173,9,131,9,0.8,4.8,0.27,4.57,0.3,Tobacco,No specific schemes found
+RTC-575874,harikrishna,Red Soil,6.25,0.29,0.32,173,8,130,9,0.71,4.83,0.3,2.6,0.39,Tobacco,Price Support Scheme
+RTC-252555,ganesha,Laterite Soil,4.71,0.23,0.72,153,5,96,6,0.37,18.44,0.36,6.94,0.28,Cashew,No specific schemes found
+RTC-519742,janendra,Red Soil,5.52,0.37,0.45,196,8,143,6,0.46,5.5,0.13,3.06,0.45,Pulses,Price Support Scheme
+RTC-552554,amarnath,Sandy Loam Soil,6.84,0.45,0.78,411,15,235,9,0.52,3.3,0.27,9.24,0.56,Groundnut,Price Support Scheme
+RTC-641726,bholenath,Laterite Soil,4.98,0.22,0.78,152,11,135,8,0.49,16.78,0.36,7.67,0.36,Coconut,No specific schemes found
+RTC-336644,chandravathi,Laterite Soil,5.49,0.27,0.51,161,7,102,5,0.41,17.57,0.37,4.08,0.11,Tea,No specific schemes found
+RTC-433663,mangalamma,Red Soil,6.18,0.31,0.46,197,10,138,6,0.65,5.55,0.12,4.3,0.31,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-167765,manjunatha,Sandy Loam Soil,6.26,0.25,0.4,420,17,210,10,0.88,5.57,0.41,8.65,0.81,Groundnut,"National Food Security Mission, Price Support Scheme"
+RTC-916468,manoj gowda,Red Soil,6.36,0.37,0.51,243,9,157,8,0.66,4.9,0.17,4.16,0.43,Groundnut,National Food Security Mission
+RTC-953675,murari,Red Soil,6.2,0.39,0.5,241,10,130,7,0.73,3.23,0.18,4.7,0.44,Ragi (Finger Millet),National Food Security Mission
+RTC-339763,madhegowda,Red Soil,6.33,0.37,0.52,220,13,156,7,0.57,4.66,0.24,3.56,0.23,Potato,Price Support Scheme
+RTC-687932,mahesha,Red Soil,5.55,0.37,0.45,194,9,125,5,0.65,5,0.3,3.42,0.26,Potato,Price Support Scheme
+RTC-557213,mariappa,Red Soil,5.82,0.16,0.36,200,9,175,7,0.79,3.54,0.14,3.03,0.29,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-525810,deva,Black Soil,8.44,0.79,0.43,221,20,358,8,0.7,6.2,0.31,4.72,0.43,Wheat,National Food Security Mission
+RTC-481969,eshwar,Silt Loam Soil,6.83,0.43,0.91,370,30,213,30,0.99,10.26,0.99,6.38,0.95,Rice,National Food Security Mission
+RTC-252235,mariamma,Black Soil,7.37,0.59,0.57,308,12,376,10,0.74,5.78,0.31,4.68,0.47,Sugarcane,No specific schemes found
+RTC-250914,maheshvari,Laterite Soil,4.66,0.28,0.73,128,9,121,6,0.58,19.18,0.48,3.73,0.31,Coffee,No specific schemes found
+RTC-423317,devegowdaDV,Black Soil,7.44,0.51,0.64,234,15,253,8,0.89,3.54,0.24,4.51,0.62,Soybean,National Food Security Mission
+RTC-251632,gowri,Laterite Soil,5.12,0.23,0.76,100,7,99,4,0.51,18.39,0.33,7.7,0.19,Coconut,No specific schemes found
+RTC-796347,chandregowda,Laterite Soil,4.53,0.18,0.4,172,7,99,7,0.39,12.13,0.49,3.85,0.3,Coffee,No specific schemes found
+RTC-116054,mallesha,Red Soil,6.17,0.2,0.48,217,14,176,8,0.7,4.12,0.25,2.3,0.21,Pulses,No specific schemes found
+RTC-776438,mallanna,Red Soil,5.51,0.2,0.43,230,8,112,9,0.52,5.39,0.28,4.93,0.22,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-712005,VILLAGE,Laterite Soil,4.6,0.24,0.67,102,9,134,6,0.4,14.37,0.32,7.92,0.37,Cashew,Mission for Integrated Development of Horticulture
+RTC-994729,POLISHETTY,Red Soil,5.87,0.32,0.32,212,14,112,5,0.43,3.47,0.17,4.73,0.27,Pulses,Mission for Integrated Development of Horticulture
+RTC-814897,PULIKESHI,Red Soil,5.79,0.32,0.41,155,14,164,9,0.49,4.72,0.11,2.13,0.38,Groundnut,Mission for Integrated Development of Horticulture
+RTC-450474,raghunath,Alluvial Soil,6.79,0.55,0.88,441,19,200,15,0.88,5.94,0.48,6.12,0.63,Jute,National Food Security Mission
+RTC-831825,Shridhar,Laterite Soil,5.01,0.29,0.69,162,9,84,7,0.42,13.95,0.29,3.87,0.27,Rubber,No specific schemes found
+RTC-735272,rajesh,Red Soil,5.93,0.16,0.43,197,9,141,8,0.72,3.49,0.1,4.39,0.47,Ragi (Finger Millet),Price Support Scheme
+RTC-694242,Shekhar,Laterite Soil,5.21,0.26,0.41,149,11,134,6,0.46,16.05,0.28,5.56,0.15,Tea,No specific schemes found
+RTC-452459,Shashank,Red Soil,5.68,0.24,0.49,207,14,112,7,0.47,3.44,0.25,4.13,0.31,Pulses,Price Support Scheme
+RTC-788647,Sharathchandra K S,Red Soil,5.61,0.38,0.42,213,13,124,5,0.45,3.37,0.27,3.06,0.45,Ragi (Finger Millet),Mission for Integrated Development of Horticulture
+RTC-992996,Shankar,Loamy Soil,7.07,0.56,0.72,304,19,225,21,0.83,8.16,0.64,7.54,0.91,Vegetables,"National Food Security Mission, Price Support Scheme"
+RTC-950516,Shivarudraiah,Laterite Soil,4.59,0.11,0.55,122,8,124,4,0.39,11.64,0.5,6.79,0.34,Tea,Mission for Integrated Development of Horticulture
+RTC-588565,Shiva,Red Soil,5.95,0.28,0.5,196,14,166,6,0.51,5.51,0.25,3.72,0.28,Tobacco,No specific schemes found
+RTC-751546,Shivashekar,Laterite Soil,5.22,0.14,0.46,157,7,101,6,0.31,14.13,0.24,7.53,0.17,Rubber,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-155214,Suresh,Sandy Loam Soil,6.78,0.5,0.74,355,13,192,16,0.5,6.47,0.49,9.22,0.52,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-263526,Rajashekhar,Red Soil,6.41,0.37,0.5,232,8,100,8,0.73,4.84,0.27,4.74,0.22,Potato,Mission for Integrated Development of Horticulture
+RTC-477410,Samarth,Red Soil,5.93,0.32,0.41,197,9,134,5,0.73,4.88,0.15,2.44,0.43,Groundnut,Price Support Scheme
+RTC-602430,Nandini,Red Soil,6.27,0.19,0.44,190,8,168,8,0.54,4.89,0.23,4.23,0.44,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-120932,Shrikanth,Red Soil,6.42,0.36,0.58,223,13,170,9,0.5,3.86,0.12,3.6,0.29,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-830580,Navya,Silt Loam Soil,7.45,0.41,1.08,378,32,208,25,1.34,9.12,0.59,12.39,0.7,Maize,National Food Security Mission
+RTC-743550,Neelkantha,Sandy Loam Soil,6.63,0.39,0.67,397,16,189,16,0.95,3.79,0.45,4.45,0.78,Groundnut,National Food Security Mission
+RTC-493308,Neeraj,Red Soil,6.49,0.26,0.4,240,11,138,8,0.7,4.69,0.18,3.15,0.36,Groundnut,Mission for Integrated Development of Horticulture
+RTC-180066,Pallavi,Laterite Soil,5.31,0.14,0.52,128,11,120,7,0.54,9.57,0.49,3.07,0.11,Cashew,No specific schemes found
+RTC-583836,Pushkar,Sandy Loam Soil,6.41,0.14,0.62,395,12,167,15,0.78,4.87,0.29,6.14,0.67,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-690423,Pavan,Loamy Soil,6.93,0.55,1.18,300,24,267,13,0.83,5.16,0.7,10.11,0.79,Oilseeds,National Food Security Mission
+RTC-593234,Rohan,Laterite Soil,4.74,0.23,0.58,109,12,150,5,0.33,14.94,0.33,6.72,0.29,Cashew,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-152000,Naveen,Laterite Soil,5.39,0.22,0.79,155,10,108,8,0.47,14.57,0.31,4.79,0.35,Tea,Mission for Integrated Development of Horticulture
+RTC-285286,Nandini,Red Soil,5.52,0.16,0.37,174,8,170,5,0.46,5.87,0.24,4.64,0.25,Potato,National Food Security Mission
+RTC-418641,Sagar,Red Soil,5.77,0.26,0.49,192,8,180,5,0.7,4.17,0.27,3.71,0.42,Ragi (Finger Millet),"National Food Security Mission, Price Support Scheme"
+RTC-796998,Narayan,Laterite Soil,5.07,0.13,0.55,133,6,106,5,0.48,18,0.38,5.26,0.25,Cashew,No specific schemes found
+RTC-740266,Namratha,Laterite Soil,5.29,0.29,0.72,146,6,99,6,0.54,17.49,0.27,5.36,0.24,Cashew,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-524455,Nithin,Silt Loam Soil,6.96,0.41,1.5,404,27,201,25,1.21,9.35,0.68,11.39,1.15,Sugarcane,National Food Security Mission
+RTC-873195,Nayana,Loamy Soil,7.06,0.68,0.8,473,22,226,24,1.41,5.12,0.58,6.49,0.8,Pulses,No specific schemes found
+RTC-459280,Nagesh,Red Soil,5.59,0.35,0.53,185,11,126,5,0.43,4,0.28,4.71,0.38,Pulses,No specific schemes found
+RTC-796673,Nalini,Black Soil,8.28,0.52,0.81,239,13,426,14,0.58,4.3,0.2,7.04,0.53,Wheat,National Food Security Mission
+RTC-855792,Nishanth,Laterite Soil,4.69,0.24,0.43,106,9,103,7,0.49,13.76,0.47,5.5,0.1,Rubber,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-853203,Neha,Laterite Soil,4.58,0.28,0.53,155,12,115,5,0.53,8.72,0.45,4.72,0.35,Rubber,No specific schemes found
+RTC-762819,Omkar,Red Soil,5.94,0.12,0.59,236,13,166,9,0.65,3.18,0.24,4.39,0.49,Pulses,Price Support Scheme
+RTC-786174,Oviya,Red Soil,6.32,0.34,0.57,182,14,152,6,0.78,5.72,0.13,3.43,0.29,Tobacco,National Food Security Mission
+RTC-120371,Omesh,Loamy Soil,6.11,0.38,1.14,458,22,276,17,0.8,7.05,0.74,5.59,0.71,Oilseeds,Mission for Integrated Development of Horticulture
+RTC-776316,Oorvashi,Red Soil,6.03,0.33,0.34,249,10,105,9,0.75,4.04,0.26,3.89,0.43,Ragi (Finger Millet),Price Support Scheme
+RTC-725490,Om Prakash,Red Soil,5.97,0.33,0.53,237,14,109,9,0.46,5.69,0.3,2.31,0.31,Tobacco,Mission for Integrated Development of Horticulture
+RTC-589436,Pradeep,Laterite Soil,4.74,0.28,0.52,115,11,118,7,0.51,17.31,0.47,5.3,0.1,Coffee,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-877218,Prashanth,Laterite Soil,5.11,0.3,0.61,161,12,87,8,0.33,15.52,0.4,6.45,0.22,Coconut,Mission for Integrated Development of Horticulture
+RTC-151861,Pooja,Red Soil,6.06,0.23,0.33,160,9,166,5,0.7,4.13,0.27,3.89,0.28,Groundnut,No specific schemes found
+RTC-241090,Pavithra,Silt Loam Soil,6.86,0.26,1.11,510,30,237,20,1.27,8.22,0.63,14.54,1.1,Cotton,National Food Security Mission
+RTC-105410,Puneeth,Laterite Soil,5.14,0.21,0.53,121,5,87,7,0.38,14.71,0.4,4,0.35,Tea,Mission for Integrated Development of Horticulture
+RTC-933767,Priya,Laterite Soil,4.72,0.11,0.67,113,9,90,5,0.54,10.62,0.32,3.56,0.12,Coconut,No specific schemes found
+RTC-912794,Pushpa,Laterite Soil,4.53,0.22,0.52,106,6,146,7,0.34,8.27,0.38,3.03,0.23,Coconut,No specific schemes found
+RTC-339058,Pallavi,Alluvial Soil,7.39,0.75,0.52,499,23,232,20,0.97,4.98,0.4,5.94,0.81,Sugarcane,No specific schemes found
+RTC-411502,Pranav,Red Soil,6.05,0.17,0.34,157,14,140,5,0.77,3.08,0.13,4.79,0.38,Groundnut,"National Food Security Mission, Price Support Scheme"
+RTC-598693,Padma,Laterite Soil,5.36,0.18,0.54,160,12,117,8,0.4,16.42,0.47,4.45,0.21,Tea,No specific schemes found
+RTC-295268,Ramesh,Loamy Soil,7.19,0.39,0.81,362,20,234,22,1.33,7.23,0.44,9.08,1.16,Sugarcane,Price Support Scheme
+RTC-266005,Raghavendra,Black Soil,8.27,0.95,0.63,230,12,425,8,0.84,4.84,0.35,8.93,0.7,Sugarcane,Price Support Scheme
+RTC-667211,Rajesh,Laterite Soil,4.83,0.17,0.6,147,6,139,6,0.51,14.16,0.25,6.58,0.24,Rubber,Mission for Integrated Development of Horticulture
+RTC-151368,Roopa,Laterite Soil,5.42,0.26,0.59,125,11,83,6,0.44,15.11,0.25,5.04,0.11,Coconut,No specific schemes found
+RTC-826505,Rekha,Laterite Soil,5.48,0.27,0.4,139,6,130,4,0.48,8.45,0.48,4.12,0.23,Coconut,No specific schemes found
+RTC-295499,Rakesh,Red Soil,5.58,0.36,0.53,175,9,146,5,0.44,5.96,0.16,3.68,0.29,Groundnut,Price Support Scheme
+RTC-106246,Rashmi,Silt Loam Soil,7.07,0.5,0.81,369,22,318,23,0.94,9.69,0.45,8.75,0.78,Wheat,No specific schemes found
+RTC-953358,Ravi,Red Soil,5.9,0.13,0.57,249,8,173,8,0.73,3.84,0.27,3.52,0.32,Ragi (Finger Millet),Price Support Scheme
+RTC-564621,Roopa Lakshmi,Loamy Soil,7.28,0.69,0.6,410,21,246,12,0.95,8.94,0.53,5.14,0.97,Vegetables,Mission for Integrated Development of Horticulture
+RTC-287737,Roopesh,Red Soil,5.73,0.21,0.49,168,13,122,8,0.75,3.36,0.13,2.9,0.25,Potato,Mission for Integrated Development of Horticulture
+RTC-174436,Srinivas,Laterite Soil,5.16,0.28,0.77,107,5,114,8,0.53,16.05,0.38,7.04,0.36,Coffee,No specific schemes found
+RTC-573511,Shashikala,Red Soil,5.64,0.37,0.44,168,13,174,8,0.75,4.2,0.12,4.65,0.37,Potato,Mission for Integrated Development of Horticulture
+RTC-615499,Suresh,Black Soil,7.27,0.43,0.68,212,17,360,9,0.76,5.64,0.31,5.14,0.61,Wheat,No specific schemes found
+RTC-711544,Savitha,Laterite Soil,4.63,0.11,0.45,169,12,150,8,0.4,16.09,0.21,5.43,0.16,Coconut,No specific schemes found
+RTC-641540,Shankar,Laterite Soil,5.34,0.22,0.67,167,11,119,6,0.31,14.4,0.34,5.05,0.32,Coconut,No specific schemes found
+RTC-755752,Shwetha,Laterite Soil,5.11,0.27,0.63,172,6,120,8,0.45,10.15,0.35,4.58,0.35,Tea,No specific schemes found
+RTC-334003,Santhosh,Silt Loam Soil,6.28,0.23,0.74,475,29,272,25,1.72,6.57,0.95,10.94,1.28,Maize,No specific schemes found
+RTC-858518,Sudha,Loamy Soil,6.58,0.22,1.14,331,27,208,23,0.76,6.64,0.58,11.62,1.03,Pulses,Price Support Scheme
+RTC-124548,Sunil,Laterite Soil,5.13,0.28,0.4,128,9,99,6,0.54,12.82,0.47,7.43,0.32,Rubber,No specific schemes found
+RTC-659307,Suma,Silt Loam Soil,6.26,0.48,0.99,570,26,266,23,1.2,9.08,0.73,14.89,1.49,Maize,No specific schemes found
+RTC-551818,Supriya,Laterite Soil,4.6,0.24,0.75,123,9,110,8,0.46,16.97,0.27,3.24,0.23,Coconut,No specific schemes found
+RTC-197433,Shilpa,Laterite Soil,5.24,0.22,0.76,196,9,101,6,0.54,8.67,0.33,5.17,0.34,Tea,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-296571,Sharath,Laterite Soil,5.47,0.17,0.46,157,10,123,5,0.31,18.96,0.42,7.07,0.3,Cashew,No specific schemes found
+RTC-263098,Shashank,Red Soil,5.62,0.2,0.4,183,8,152,7,0.51,4.29,0.15,4.64,0.25,Ragi (Finger Millet),"National Food Security Mission, Price Support Scheme"
+RTC-533989,Spoorthi,Laterite Soil,5.01,0.16,0.48,145,7,100,8,0.32,13.38,0.23,3.86,0.21,Cashew,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-266813,Tharun,Silt Loam Soil,6.45,0.36,1.04,516,22,250,15,1.78,7.99,0.56,12.46,1.43,Rice,No specific schemes found
+RTC-261446,Tejaswini,Red Soil,6.49,0.15,0.55,234,8,149,10,0.49,3.89,0.23,2.45,0.25,Pulses,Price Support Scheme
+RTC-777583,Tulasiram,Red Soil,5.94,0.32,0.5,167,9,173,5,0.79,3.4,0.1,2.14,0.25,Tobacco,National Food Security Mission
+RTC-504570,Tanvi,Red Soil,5.59,0.1,0.4,204,14,116,9,0.44,5.38,0.18,2.08,0.28,Tobacco,"National Food Security Mission, Price Support Scheme"
+RTC-371952,Tanuja,Silt Loam Soil,6.69,0.25,1.42,416,22,291,29,1.69,5.64,0.97,12.16,1.26,Wheat,National Food Security Mission
+RTC-119040,Uday,Silt Loam Soil,7.35,0.26,1.25,582,25,237,20,1.31,9.58,0.52,10.76,0.71,Maize,National Food Security Mission
+RTC-500254,Usha,Loamy Soil,7.36,0.55,0.99,327,26,292,16,0.92,7.98,0.32,8.01,0.72,Oilseeds,"National Food Security Mission, Price Support Scheme"
+RTC-976089,Uma,Laterite Soil,5.15,0.24,0.44,136,7,110,6,0.47,11.25,0.28,5.89,0.3,Rubber,No specific schemes found
+RTC-545096,Umesh,Laterite Soil,5.39,0.23,0.73,193,5,100,7,0.34,8.25,0.39,3.34,0.3,Cashew,No specific schemes found
+RTC-395720,Upendra,Red Soil,5.59,0.14,0.5,215,11,177,6,0.59,5.51,0.11,4.8,0.43,Groundnut,Mission for Integrated Development of Horticulture
+RTC-325402,Vinay,Red Soil,6.46,0.1,0.39,164,15,131,5,0.57,3.15,0.3,2.89,0.23,Ragi (Finger Millet),"National Food Security Mission, Price Support Scheme"
+RTC-159357,Vijay,Red Soil,6.14,0.26,0.4,175,13,105,10,0.4,3.92,0.17,4.76,0.46,Groundnut,National Food Security Mission
+RTC-155889,Varun,Red Soil,5.54,0.22,0.46,175,10,124,6,0.5,3.41,0.26,2.36,0.44,Potato,Price Support Scheme
+RTC-297174,Veena,Laterite Soil,4.86,0.22,0.56,129,11,102,8,0.5,10.57,0.3,4.87,0.32,Rubber,No specific schemes found
+RTC-247641,Venkatesh,Laterite Soil,5.19,0.12,0.48,175,8,142,5,0.49,13.5,0.44,5.95,0.25,Cashew,No specific schemes found
+RTC-950275,Vidya,Sandy Loam Soil,6.24,0.2,0.67,324,20,195,10,0.65,3.46,0.28,6.39,0.4,Groundnut,Price Support Scheme
+RTC-212882,Vishwanath,Red Soil,6.13,0.15,0.34,161,11,152,7,0.75,4.5,0.24,4.8,0.38,Potato,No specific schemes found
+RTC-654207,Vandana,Red Soil,6.08,0.24,0.49,228,11,153,6,0.73,4.91,0.24,2.93,0.31,Potato,National Food Security Mission
+RTC-194476,Vasudev,Sandy Loam Soil,6.81,0.17,0.7,418,17,171,12,0.99,3.39,0.32,7.35,0.55,Potato,National Food Security Mission
+RTC-943273,Varalakshmi,Alluvial Soil,6.98,0.76,0.61,283,19,294,13,0.76,5.75,0.35,4.08,0.63,Maize,National Food Security Mission
+RTC-429072,Wilfred,Alluvial Soil,6.98,0.31,0.96,404,20,254,11,1.06,5.53,0.34,6.28,0.54,Sugarcane,National Food Security Mission
+RTC-729851,William,Sandy Loam Soil,6.08,0.3,0.74,413,17,205,18,0.81,4.78,0.44,9.72,0.49,Pulses,Mission for Integrated Development of Horticulture
+RTC-749016,Wilson,Red Soil,5.8,0.34,0.54,193,13,107,9,0.45,4.62,0.21,3.66,0.32,Potato,Mission for Integrated Development of Horticulture
+RTC-971496,Yogesh,Alluvial Soil,7.75,0.7,0.63,441,18,230,13,0.85,5.22,0.44,6.2,0.67,Rice,Mission for Integrated Development of Horticulture
+RTC-630909,Yashaswini,Silt Loam Soil,7.43,0.46,1.11,469,21,299,30,1.27,5.8,0.79,9.62,0.87,Wheat,National Food Security Mission
+RTC-701605,Yash,Alluvial Soil,7.4,0.33,0.59,368,20,224,18,1.04,7.83,0.24,5.97,0.7,Rice,No specific schemes found
+RTC-787707,Yamuna,Red Soil,5.85,0.4,0.59,206,13,120,7,0.4,3.81,0.14,3.85,0.35,Groundnut,No specific schemes found
+RTC-346148,Yatish,Black Soil,8.19,0.6,0.76,289,19,279,8,0.67,6.9,0.31,6.16,0.7,Jowar (Sorghum),National Food Security Mission
+RTC-880352,Yuvraj,Red Soil,6.38,0.24,0.52,157,14,167,7,0.41,5.9,0.21,3.18,0.42,Pulses,National Food Security Mission
+RTC-999165,Yeshwanth,Silt Loam Soil,6.95,0.52,1.36,596,26,270,21,1.44,10.82,0.96,8.01,0.83,Sugarcane,No specific schemes found
+RTC-165308,Zahira,Laterite Soil,5.17,0.22,0.49,179,8,105,6,0.35,13.78,0.48,7.86,0.24,Cashew,No specific schemes found
+RTC-998395,Zameer,Laterite Soil,5.5,0.22,0.57,131,11,81,7,0.51,10.58,0.24,4.04,0.15,Tea,No specific schemes found
+RTC-599127,Zeenath,Black Soil,7.61,0.67,0.69,298,16,371,15,0.51,5.35,0.2,6.18,0.7,Sugarcane,National Food Security Mission
+RTC-407151,Zubair,Laterite Soil,4.9,0.27,0.56,149,10,101,7,0.35,17.65,0.32,5.25,0.36,Tea,No specific schemes found
+RTC-340948,Zarina,Red Soil,6.32,0.21,0.46,202,12,122,8,0.69,3.99,0.24,2.65,0.43,Tobacco,National Food Security Mission
+RTC-190212,Nischitha,Red Soil,6.42,0.15,0.57,156,9,109,9,0.43,5.69,0.16,3.72,0.34,Ragi (Finger Millet),Mission for Integrated Development of Horticulture
+RTC-674577,Niveditha,Loamy Soil,6.92,0.4,1.15,498,24,230,19,1.14,4.78,0.42,6.19,0.65,Wheat,Price Support Scheme
+RTC-804628,Nikhil,Loamy Soil,6.34,0.31,0.85,467,18,240,22,1.04,5.09,0.74,6.89,0.75,Oilseeds,National Food Security Mission
+RTC-431209,Nirmala,Sandy Loam Soil,7,0.19,0.45,421,14,168,8,0.66,4.6,0.51,9.61,0.81,Groundnut,Price Support Scheme
+RTC-174278,Nandish,Red Soil,6.49,0.28,0.35,180,12,151,10,0.66,5.52,0.11,3.04,0.49,Pulses,No specific schemes found
+RTC-996275,Pavani,Laterite Soil,5.34,0.12,0.45,184,6,136,8,0.47,16.39,0.25,4.91,0.28,Tea,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-969889,Pratibha,Laterite Soil,4.96,0.27,0.77,124,9,93,7,0.43,18.58,0.3,6.87,0.27,Rubber,No specific schemes found
+RTC-506125,Prema,Red Soil,6.12,0.37,0.46,246,9,150,7,0.61,4.74,0.12,4.65,0.24,Potato,No specific schemes found
+RTC-908161,Prathap,Laterite Soil,5.45,0.16,0.4,155,5,100,5,0.57,14.39,0.34,7.01,0.4,Tea,No specific schemes found
+RTC-529275,Praveen,Red Soil,5.54,0.36,0.3,199,11,107,8,0.6,5.16,0.16,3.44,0.23,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-967621,Ranjith,Red Soil,5.84,0.2,0.39,185,10,149,8,0.63,4.75,0.21,2.66,0.36,Pulses,Price Support Scheme
+RTC-489468,Renuka,Laterite Soil,5.47,0.18,0.63,140,11,84,6,0.48,12.34,0.35,6.84,0.36,Coconut,No specific schemes found
+RTC-522576,Radha,Laterite Soil,4.93,0.12,0.53,104,12,136,6,0.48,19.27,0.38,3.81,0.23,Coffee,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-710463,Veerabhadra,Red Soil,5.96,0.28,0.32,190,9,107,5,0.59,3,0.27,4.63,0.42,Pulses,Mission for Integrated Development of Horticulture
+RTC-261086,Vijayalakshmi,Sandy Loam Soil,6.77,0.48,0.78,319,19,235,9,0.58,6.32,0.46,5.31,0.64,Maize,"National Food Security Mission, Price Support Scheme"
+RTC-674825,Shashank,Laterite Soil,5.12,0.28,0.48,119,9,123,8,0.34,18.91,0.46,3.42,0.33,Tea,No specific schemes found
+RTC-256235,Varalakshmi,Red Soil,6.16,0.37,0.5,212,10,104,9,0.49,5.76,0.12,4.52,0.36,Potato,No specific schemes found
+RTC-720708,Umesh,Laterite Soil,5.4,0.22,0.47,122,5,146,8,0.56,17.08,0.34,5.63,0.14,Tea,No specific schemes found
+RTC-450105,Ranjith,Laterite Soil,4.9,0.13,0.57,167,8,108,7,0.34,19.12,0.41,4.77,0.35,Tea,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-684531,Pooja,Sandy Loam Soil,6.61,0.3,0.41,417,21,209,12,0.88,4.31,0.24,7.27,0.49,Maize,Price Support Scheme
+RTC-873136,Roopesh,Red Soil,5.64,0.31,0.53,244,9,150,9,0.49,3.46,0.19,2.77,0.47,Ragi (Finger Millet),No specific schemes found
+RTC-121927,Yogesh,Silt Loam Soil,6.72,0.38,1.31,590,28,219,18,1.69,9.8,0.83,11.79,0.84,Wheat,National Food Security Mission
+RTC-920530,Tanvi,Alluvial Soil,7.33,0.51,0.57,288,16,342,19,1.15,5.27,0.29,6.2,0.63,Maize,National Food Security Mission
+RTC-668502,Nandini,Laterite Soil,4.72,0.12,0.55,174,6,141,7,0.44,19.94,0.21,3.2,0.25,Coffee,No specific schemes found
+RTC-763033,Omkar,Red Soil,6.39,0.15,0.36,176,8,103,6,0.57,5.84,0.23,2.56,0.49,Tobacco,Price Support Scheme
+RTC-590871,Veena,Sandy Loam Soil,6.16,0.31,0.76,298,17,223,10,0.99,4.3,0.42,7.03,0.62,Maize,National Food Security Mission
+RTC-554599,Puneeth,Laterite Soil,4.88,0.27,0.52,182,11,88,4,0.45,14.57,0.28,6.32,0.37,Cashew,No specific schemes found
+RTC-594399,Wilson,Red Soil,6.19,0.17,0.45,187,9,117,8,0.46,4.6,0.22,4.37,0.31,Groundnut,National Food Security Mission
+RTC-924576,Raghavendra,Red Soil,6.19,0.14,0.3,175,11,148,6,0.4,3.79,0.26,2.25,0.43,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-672587,Rekha,Red Soil,6.38,0.24,0.34,173,12,128,5,0.78,4.12,0.2,4.69,0.35,Pulses,No specific schemes found
+RTC-281885,Spoorthi,Red Soil,5.64,0.38,0.33,156,12,113,9,0.79,3.67,0.11,3.6,0.43,Potato,Price Support Scheme
+RTC-400647,Sunil,Red Soil,6.32,0.37,0.32,201,9,133,8,0.63,3.49,0.21,3.31,0.26,Tobacco,National Food Security Mission
+RTC-309607,Upendra,Laterite Soil,4.5,0.26,0.73,184,6,121,4,0.49,14.12,0.25,7.33,0.32,Coconut,Mission for Integrated Development of Horticulture
+RTC-549371,Yash,Red Soil,6.35,0.36,0.42,175,14,139,5,0.73,3.96,0.23,2.69,0.43,Potato,Price Support Scheme
+RTC-815827,Nirmala,Red Soil,5.63,0.16,0.32,151,14,140,5,0.64,4.71,0.27,3.86,0.47,Groundnut,Mission for Integrated Development of Horticulture
+RTC-805764,Sharath,Laterite Soil,4.85,0.2,0.53,143,8,115,7,0.46,15.39,0.22,4.5,0.34,Coconut,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-260228,Radha,Silt Loam Soil,7.17,0.56,0.93,354,33,302,16,1.49,6.64,0.63,14.48,1.21,Maize,National Food Security Mission
+RTC-965304,Zubair,Silt Loam Soil,7.66,0.2,0.73,451,26,209,24,0.86,5.36,0.48,13.05,1.4,Wheat,National Food Security Mission
+RTC-258829,Tejaswini,Loamy Soil,6.12,0.21,1.12,477,18,199,13,1.45,9.56,0.69,7.27,1.18,Vegetables,"National Food Security Mission, Price Support Scheme"
+RTC-860826,Namratha,Sandy Loam Soil,6.01,0.44,0.49,325,13,178,15,0.66,6.04,0.53,5.19,0.75,Maize,Price Support Scheme
+RTC-297238,Praveen,Black Soil,7.39,0.85,0.84,222,13,399,8,0.97,5.65,0.26,6.53,0.52,Wheat,Price Support Scheme
+RTC-143645,Prashanth,Alluvial Soil,7.24,0.72,0.8,489,19,341,14,1.18,4.53,0.38,4.87,0.7,Rice,No specific schemes found
+RTC-166478,Pratibha,Laterite Soil,4.93,0.3,0.73,103,8,113,5,0.32,11.19,0.46,4.88,0.13,Coffee,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-535989,Uday,Silt Loam Soil,6.54,0.47,1.43,367,33,298,16,1.67,8.59,0.67,13.82,1.03,Rice,National Food Security Mission
+RTC-227734,Nikhil,Sandy Loam Soil,6.43,0.49,0.65,270,18,161,11,0.91,5.12,0.41,8.44,0.76,Pulses,Mission for Integrated Development of Horticulture
+RTC-855814,Suma,Red Soil,5.75,0.1,0.4,186,8,175,10,0.76,4.69,0.24,3.96,0.45,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-873087,Nalini,Red Soil,5.69,0.22,0.32,173,15,166,5,0.7,5.01,0.11,3.1,0.38,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-312687,Ramesh,Red Soil,5.93,0.38,0.54,155,15,113,8,0.55,3.52,0.22,3.97,0.34,Groundnut,No specific schemes found
+RTC-965453,Padma,Red Soil,5.99,0.21,0.39,232,9,118,7,0.53,5.95,0.16,4.74,0.34,Potato,Price Support Scheme
+RTC-534183,Sudha,Red Soil,6.48,0.2,0.59,199,13,119,7,0.68,5.55,0.28,2.19,0.34,Pulses,National Food Security Mission
+RTC-697020,Nayana,Red Soil,5.58,0.27,0.35,171,10,103,10,0.42,4.41,0.26,3.06,0.33,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-243132,Vinay,Laterite Soil,5.32,0.18,0.62,106,11,139,5,0.32,13.62,0.21,6.8,0.3,Tea,No specific schemes found
+RTC-524453,Zameer,Sandy Loam Soil,6.8,0.14,0.71,437,22,176,16,0.55,3.43,0.44,6.13,0.62,Maize,Mission for Integrated Development of Horticulture
+RTC-456117,Yamuna,Silt Loam Soil,6.21,0.56,1.23,437,30,210,19,0.96,10.68,0.92,7.29,1.13,Sugarcane,National Food Security Mission
+RTC-110403,Roopa,Loamy Soil,6.92,0.21,0.97,340,22,194,24,0.9,7.06,0.64,5.25,1.03,Pulses,Price Support Scheme
+RTC-119713,Srinivas,Loamy Soil,6.08,0.31,1.02,491,22,272,13,0.87,7.43,0.41,10.69,0.64,Pulses,Price Support Scheme
+RTC-157463,Zeenath,Red Soil,5.5,0.29,0.32,219,11,156,6,0.45,3.73,0.22,2.9,0.42,Tobacco,National Food Security Mission
+RTC-763484,Rashmi,Red Soil,6.15,0.19,0.53,219,11,157,10,0.55,4.88,0.11,2.02,0.34,Tobacco,Mission for Integrated Development of Horticulture
+RTC-283355,Venkatesh,Laterite Soil,4.71,0.12,0.49,132,5,124,5,0.3,10.17,0.4,3.75,0.15,Coffee,"Mission for Integrated Development of Horticulture, Clean Plant Programme"
+RTC-103638,Pranav,Laterite Soil,4.55,0.11,0.45,193,11,146,5,0.46,8.44,0.41,7.02,0.18,Coconut,No specific schemes found
+RTC-636148,Shilpa,Alluvial Soil,7.36,0.51,0.94,348,19,255,14,1.15,5.62,0.35,6.55,0.61,Jute,National Food Security Mission
+RTC-259479,Suresh,Red Soil,6.28,0.37,0.56,209,8,104,6,0.55,3.69,0.25,2.51,0.36,Potato,Price Support Scheme
+RTC-909826,Varun,Red Soil,6.42,0.19,0.39,165,11,172,7,0.71,3.91,0.16,4.02,0.25,Ragi (Finger Millet),National Food Security Mission
+RTC-874955,Yuvraj,Red Soil,6.43,0.13,0.56,239,13,154,6,0.46,5.17,0.11,4.41,0.42,Pulses,No specific schemes found
+RTC-982790,Savitha,Red Soil,6.31,0.35,0.55,209,12,156,9,0.75,4.03,0.14,2.36,0.38,Tobacco,No specific schemes found
+RTC-613801,Omesh,Red Soil,6,0.33,0.55,221,14,140,5,0.52,4.29,0.16,2.1,0.41,Potato,National Food Security Mission
+RTC-378981,Vandana,Red Soil,6.37,0.39,0.5,186,15,177,9,0.58,5.16,0.3,2.46,0.24,Tobacco,Mission for Integrated Development of Horticulture
+RTC-322210,Nischitha,Red Soil,6.01,0.14,0.37,243,13,127,9,0.6,3.87,0.2,2.38,0.2,Pulses,"National Food Security Mission, Price Support Scheme"
+RTC-771607,William,Silt Loam Soil,7.17,0.22,1.08,570,30,319,27,1.33,8.94,0.44,12.16,1.3,Cotton,No specific schemes found
+RTC-448252,Veerabhadra,Red Soil,6.47,0.27,0.34,164,10,150,8,0.69,4.93,0.28,2.68,0.35,Potato,Mission for Integrated Development of Horticulture
+RTC-110394,Rajesh,Sandy Loam Soil,6.4,0.46,0.53,374,22,199,13,0.89,4.2,0.28,6.79,0.79,Groundnut,Price Support Scheme
+RTC-621386,Nandish,Black Soil,7.37,0.61,0.44,300,20,410,15,0.74,6.84,0.38,6.48,0.65,Jowar (Sorghum),National Food Security Mission
+RTC-285632,Spoorthi,Red Soil,6.02,0.37,0.6,164,12,115,8,0.71,3.72,0.19,4.32,0.46,Potato,No specific schemes found
+RTC-282905,Vijay,Red Soil,6.17,0.22,0.36,190,8,176,8,0.63,5.57,0.2,4.44,0.28,Potato,"National Food Security Mission, Price Support Scheme"
+RTC-829842,Niveditha,Loamy Soil,6.27,0.53,1.07,345,18,211,23,1.08,5.27,0.52,7.97,0.78,Sugarcane,No specific schemes found
+RTC-370766,Prathap,Alluvial Soil,6.82,0.41,0.68,342,19,265,11,0.68,5.48,0.49,4.99,0.97,Jute,No specific schemes found
+RTC-187725,Vasudev,Red Soil,5.77,0.27,0.35,189,13,115,9,0.4,4.39,0.28,2.11,0.29,Pulses,Mission for Integrated Development of Horticulture
+RTC-219362,Tanuja,Laterite Soil,5.3,0.29,0.52,182,8,119,4,0.49,10.44,0.31,5.58,0.23,Rubber,No specific schemes found
+RTC-653330,Prema,Red Soil,6.01,0.31,0.46,234,9,115,8,0.65,4.82,0.29,4.27,0.23,Ragi (Finger Millet),Mission for Integrated Development of Horticulture
+RTC-339740,Yeshwanth,Laterite Soil,4.93,0.19,0.4,194,5,141,5,0.35,13.66,0.43,3.51,0.12,Rubber,No specific schemes found
+RTC-884563,Vidhya,Red Soil,5.98,0.11,0.51,176,13,127,7,0.69,5.71,0.23,2.16,0.4,Tobacco,No specific schemes found
